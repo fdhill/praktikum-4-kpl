@@ -12,3 +12,4 @@ D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debu
 D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.pdb
 D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.genruntimeconfig.cache
 D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\ref\GenericMasterClass.dll
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.sourcelink.json
