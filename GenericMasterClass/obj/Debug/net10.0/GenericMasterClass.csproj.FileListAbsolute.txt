@@ -1,0 +1,14 @@
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\bin\Debug\net10.0\GenericMasterClass.exe
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\bin\Debug\net10.0\GenericMasterClass.deps.json
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\bin\Debug\net10.0\GenericMasterClass.runtimeconfig.json
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\bin\Debug\net10.0\GenericMasterClass.dll
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\bin\Debug\net10.0\GenericMasterClass.pdb
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.AssemblyInfoInputs.cache
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.AssemblyInfo.cs
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.csproj.CoreCompileInputs.cache
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.dll
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\refint\GenericMasterClass.dll
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.pdb
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\GenericMasterClass.genruntimeconfig.cache
+D:\Folder D\kuliah\Semester 4\KPL\GenericMasterClass\GenericMasterClass\obj\Debug\net10.0\ref\GenericMasterClass.dll
