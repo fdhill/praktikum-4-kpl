@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericMasterClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3680d14c2e353c3fd0e982e8e76351461e0d14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8183f15f49d6d68e96cb0b22632caf239e86441")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericMasterClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericMasterClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
